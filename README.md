@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @etoGrassie
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning PyQt
+- 👀 I’m interested in Python, C++. 
+- 🌱 I’m currently learning Qt (C++)! 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
